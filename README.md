@@ -37,4 +37,4 @@ This repository contains the code and documentation for the X Education Lead Sco
 
 - Clone the repository:
   ```bash
-  git clone # X Education Lead Scoring Project
+  git clone https://github.com/muvva369/Lead-Scoring-Group-Assignment/
